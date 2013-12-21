@@ -13,6 +13,10 @@ public class Thai {
 	private String town;
 	private int age;
 
+    public Thai() throws UnsupportedOperationException {
+        throw new UnsupportedOperationException("Please do not use default constructor");
+    }
+
 	public Thai(boolean dumb, String name, String town, int age) {
 		this.dumb = dumb;
 		this.name = name;
