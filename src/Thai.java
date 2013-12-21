@@ -21,8 +21,6 @@ public class Thai {
 	}
 
 	// Standard methods
-
-
     public boolean isDumb() {
         return dumb;
     }
