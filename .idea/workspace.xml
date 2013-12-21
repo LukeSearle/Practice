@@ -72,10 +72,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="Door.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Door.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="1" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="2618">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="33" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1088">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlreadyLocked.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AlreadyLocked.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="3" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Thai.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Thai.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="14" selection-start="437" selection-end="437" vertical-scroll-proportion="0.27175844" vertical-offset="68" max-vertical-offset="952">
+            <state line="18" column="17" selection-start="455" selection-end="455" vertical-scroll-proportion="0.09058615" vertical-offset="187" max-vertical-offset="969">
               <folding>
                 <element signature="method#toString#0;class#Thai#0" expanded="false" />
                 <element signature="method#equals#0;class#Thai#0" expanded="false" />
@@ -592,10 +619,10 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="TaskManager">
-    <task id="Default" summary="Default task">
+    <task active="true" id="Default" summary="Default task">
       <changelist id="15a4b83b-790a-4f9a-90c4-27b0e6b7c7db" name="Default" comment="" />
       <created>1386068785671</created>
-      <updated>1387607752820</updated>
+      <updated>1387633945752</updated>
       <workItem from="1386674311193" duration="1127000" />
       <workItem from="1386833471424" duration="751000" />
       <workItem from="1386849198699" duration="12954000" />
@@ -612,6 +639,7 @@
       <workItem from="1387189310380" duration="8216000" />
       <workItem from="1387554711712" duration="3110000" />
       <workItem from="1387607604850" duration="148000" />
+      <workItem from="1387633946493" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Removed excess lines">
       <created>1387605445961</created>
@@ -622,18 +650,22 @@
       <updated>1387607604672</updated>
       <workItem from="1387607530691" duration="74000" />
     </task>
-    <task active="true" id="Practice-1" summary="No default constructor for Thai">
+    <task id="Practice-1" summary="No default constructor for Thai">
       <created>1387568073000</created>
       <option name="issue" value="true" />
       <option name="type" value="BUG" />
-      <updated>1387607754269</updated>
-      <workItem from="1387607754298" duration="419000" />
+      <updated>1387633945693</updated>
+      <workItem from="1387607754298" duration="458000" />
     </task>
     <task id="LOCAL-00005" summary="Fixed #1">
       <created>1387607913583</created>
       <updated>1387607913583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <created>1387633918633</created>
+      <updated>1387633918633</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <option name="createChangelist" value="false" />
     <option name="createBranch" value="false" />
     <option name="closeIssue" value="false" />
@@ -654,7 +686,7 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37115000" />
+    <option name="totallyTimeSpent" value="37167000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -759,7 +791,8 @@
     <MESSAGE value="Adding untitiled project&#10;" />
     <MESSAGE value="Removed excess lines" />
     <MESSAGE value="Fixed #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed #1" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1280,7 +1313,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="14" selection-start="437" selection-end="437" vertical-scroll-proportion="0.27175844" vertical-offset="68" max-vertical-offset="952">
+        <state line="18" column="17" selection-start="455" selection-end="455" vertical-scroll-proportion="0.09058615" vertical-offset="187" max-vertical-offset="969">
           <folding>
             <element signature="method#toString#0;class#Thai#0" expanded="false" />
             <element signature="method#equals#0;class#Thai#0" expanded="false" />
