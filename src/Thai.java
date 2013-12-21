@@ -15,6 +15,7 @@ public class Thai {
 
     public Thai() throws UnsupportedOperationException {
         throw new UnsupportedOperationException("Please do not use default constructor");
+        //test
     }
 
 	public Thai(boolean dumb, String name, String town, int age) {
